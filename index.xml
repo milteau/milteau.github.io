@@ -10,6 +10,13 @@
     <lastBuildDate>Mon, 05 Feb 2024 22:21:41 +0800</lastBuildDate>
     <atom:link href="https://milteau.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Projects</title>
+      <link>https://milteau.github.io/projects/</link>
+      <pubDate>Tue, 06 Feb 2024 13:17:24 +0800</pubDate>
+      <guid>https://milteau.github.io/projects/</guid>
+      <description>关于Project Project 页面实际上就是我的“Now”页面。关于“Now”页面这个概念，我是从Derek Sivrs的博客看到的。所谓“Now”页面，顾名思义就是：&#xA;一个带有“现在”链接的网站会转到一个页面，该页面告诉您此人此时此刻所关注的是什么。简而言之，我们称之为“Now”页面。&#xA;在这个页面上，我会附上更新日期，然后列出自己当前专注的事情。&#xA;😎 Start Date：2024-02-06，我正在湘西的家里。&#xA;我正在做什么 准备考编上岸的复习 </description>
+    </item>
+    <item>
       <title>CV</title>
       <link>https://milteau.github.io/cv/</link>
       <pubDate>Mon, 05 Feb 2024 23:07:14 +0800</pubDate>
