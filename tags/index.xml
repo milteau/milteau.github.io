@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Pengcheng&#39;s Blog</title>
+    <link>https://milteau.github.io/tags/</link>
+    <description>Recent content in Tags on Pengcheng&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© Pengcheng</copyright>
+    <lastBuildDate>Mon, 05 Feb 2024 22:21:41 +0800</lastBuildDate>
+    <atom:link href="https://milteau.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>emacs</title>
+      <link>https://milteau.github.io/tags/emacs/</link>
+      <pubDate>Mon, 05 Feb 2024 22:21:41 +0800</pubDate>
+      <guid>https://milteau.github.io/tags/emacs/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

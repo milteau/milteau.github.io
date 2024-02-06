@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pengcheng&#39;s Blog</title>
+    <link>https://milteau.github.io/posts/</link>
+    <description>Recent content in Posts on Pengcheng&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© Pengcheng</copyright>
+    <lastBuildDate>Mon, 05 Feb 2024 22:21:41 +0800</lastBuildDate>
+    <atom:link href="https://milteau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs：初始配置记录</title>
+      <link>https://milteau.github.io/posts/emacs-%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Mon, 05 Feb 2024 22:21:41 +0800</pubDate>
+      <guid>https://milteau.github.io/posts/emacs-%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/</guid>
+      <description>从Doom Emacs到自行配置Emacs的初始文件，时间又过去了一周。上次的初始文件配置，虽然是想学Purcell的模块化管理配置文件，但不得其法。这次，我从新配置Emacs 的初始文件，尝试按照Purcell的模块化方式，成功了。&#xA;我在init.el文件中只是照搬Purcell的一段代码：&#xA;#+begin_src emacs-lisp ;;; init.el --- The main entry for emacs -*- lexical-binding: t -*- ;;; Commentary: ;;; Code: ;; A big contributor to startup times is garbage collection. We up the gc ;; threshold to temporarily prevent it from running, and then reset it by the ;; `gcmh&amp;#39; package. (setq gc-cons-threshold most-positive-fixnum gc-cons-percentage 0.6) ;; Increase how much is read from processes in a single chunk (default is 4kb).</description>
+    </item>
+  </channel>
+</rss>
