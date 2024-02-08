@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Pengcheng&#39;s Blog</title>
-    <link>https://milteau.github.io/posts/</link>
-    <description>Recent content in Posts on Pengcheng&#39;s Blog</description>
+    <title>books on Pengcheng&#39;s Blog</title>
+    <link>https://milteau.github.io/tags/books/</link>
+    <description>Recent content in books on Pengcheng&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© Pengcheng</copyright>
     <lastBuildDate>Thu, 08 Feb 2024 18:09:40 +0800</lastBuildDate>
-    <atom:link href="https://milteau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://milteau.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>《风神之门》读后感</title>
       <link>https://milteau.github.io/posts/%E9%A3%8E%E7%A5%9E%E4%B9%8B%E9%97%A8%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
       <pubDate>Thu, 08 Feb 2024 18:09:40 +0800</pubDate>
       <guid>https://milteau.github.io/posts/%E9%A3%8E%E7%A5%9E%E4%B9%8B%E9%97%A8%E8%AF%BB%E5%90%8E%E6%84%9F/</guid>
       <description>该怎么说呢？&#xA;这本小说读完之后，我只觉得自己仿佛是在B站看了一部12剧集的异世番剧，主角才藏有点儿“龙傲天”。&#xA;司马辽太郎的小说，我也看不过少，但这本《风神之门》读下来，我还是有些失望的。这本书所描写的是“真田十勇士”里的雾隐才藏以及猿飞佐助，但人物刻画还是有些扁平了。&#xA;当时的历史背景下，正是战国末期丰臣家最后命运的归属。作为伊贺忍者中的佼佼者，雾隐才藏一开始的出场，我觉得蛮符合“忍者”的身份，以及充满着忍者的觉悟，即自己只是将自己的技艺卖于买家，二者不存在大义名分，而只有利益关系。但他被真田幸村收为家臣，也只是司马大师的意淫，写得并不深动，逻辑也不足以支撑。&#xA;从上册到下册，一直与不同的女人有着瓜葛，司马辽太郎设置诸多女性角色用以推动小说故事情节，对于历史上的秀赖、淀姬，甚至真田幸村都着墨不多。&#xA;也无怪，有读者认为，司马辽太郎可能更适合写日本战国时期的英雄人物，比如：斋藤道三、织田信长、太阁丰臣秀吉等人了。</description>
-    </item>
-    <item>
-      <title>Emacs：初始配置记录</title>
-      <link>https://milteau.github.io/posts/emacs-%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/</link>
-      <pubDate>Mon, 05 Feb 2024 22:21:41 +0800</pubDate>
-      <guid>https://milteau.github.io/posts/emacs-%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/</guid>
-      <description>从Doom Emacs到自行配置Emacs的初始文件，时间又过去了一周。上次的初始文件配置，虽然是想学Purcell的模块化管理配置文件，但不得其法。这次，我从新配置Emacs 的初始文件，尝试按照Purcell的模块化方式，成功了。&#xA;我在init.el文件中只是照搬Purcell的一段代码：&#xA;#+begin_src emacs-lisp ;;; init.el --- The main entry for emacs -*- lexical-binding: t -*- ;;; Commentary: ;;; Code: ;; A big contributor to startup times is garbage collection. We up the gc ;; threshold to temporarily prevent it from running, and then reset it by the ;; `gcmh&amp;#39; package. (setq gc-cons-threshold most-positive-fixnum gc-cons-percentage 0.6) ;; Increase how much is read from processes in a single chunk (default is 4kb).</description>
     </item>
   </channel>
 </rss>

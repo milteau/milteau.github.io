@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© Pengcheng</copyright>
-    <lastBuildDate>Mon, 05 Feb 2024 22:21:41 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 18:09:40 +0800</lastBuildDate>
     <atom:link href="https://milteau.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>books</title>
+      <link>https://milteau.github.io/tags/books/</link>
+      <pubDate>Thu, 08 Feb 2024 18:09:40 +0800</pubDate>
+      <guid>https://milteau.github.io/tags/books/</guid>
+      <description></description>
+    </item>
     <item>
       <title>emacs</title>
       <link>https://milteau.github.io/tags/emacs/</link>
