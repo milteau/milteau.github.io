@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 鹏程Frank的数字花园</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 鹏程Frank的数字花园</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2026 16:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>重塑数字花园：我的现代 Hugo 与 GitHub Actions 实践</title>
+      <link>http://localhost:1313/posts/practice-hugo-and-github-actions/</link>
+      <pubDate>Wed, 01 Jul 2026 16:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/practice-hugo-and-github-actions/</guid>
+      <description>记录一次将本地博客重构为纯净代码加云端自动化编译的硬核排障过程，以及我对极简生产力工具的思考。</description>
+    </item>
+    <item>
+      <title>读 The Book of Elon</title>
+      <link>http://localhost:1313/posts/read-the-book-of-elon/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/read-the-book-of-elon/</guid>
+      <description>&lt;p&gt;
+&lt;em&gt;原文地址：&lt;/em&gt; &lt;a href=&#34;https://www.elonmuskbook.org/&#34;&gt;The Book of Elon&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;http://localhost:1313/images/the-book-of-elon.jpg&#34; alt=&#34;/images/the-book-of-elon.jpg&#34; title=&#34;/images/the-book-of-elon.jpg&#34; width=&#34;200px&#34;/&gt;
+&lt;figcaption&gt;
+The Book of Elon
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+One Sentence that I should Write Down
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+以物理学为第一性原理，以“默认自己是错的”为修正机制，通过机制删减与高速迭代，去创造世界上原本不存在、但显然应该存在的实体价值。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+The 69 Core Musk Methods
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ol&gt;
+&lt;li&gt;You are capable of more than you think.&lt;/li&gt;
+&lt;li&gt;It&amp;#39;s possible for ordinary people to choose to be extraordinary.&lt;/li&gt;
+&lt;li&gt;You can teach yourself anything. Read wisely; talk to experts.&lt;/li&gt;
+&lt;li&gt;Assume you&amp;#39;re wrong. Aspire to be less wrong.&lt;/li&gt;
+&lt;li&gt;Internalize responsibilty.&lt;/li&gt;
+&lt;li&gt;If we don&amp;#39;t make stuff, there is no stuff.&lt;/li&gt;
+&lt;li&gt;Creating products and services creates wealth.&lt;/li&gt;
+&lt;li&gt;A useful life is worth having lived.&lt;/li&gt;
+&lt;li&gt;Don&amp;#39;t aspire to glory; aspire to work.&lt;/li&gt;
+&lt;li&gt;Take actions that increase the odds of the future being good.&lt;/li&gt;
+&lt;li&gt;Every day, we either increase the rate of innovation or it slows down.&lt;/li&gt;
+&lt;li&gt;Work on what is just becoming possible.&lt;/li&gt;
+&lt;li&gt;Don&amp;#39;t wait for the world to want it. If it should obviously exist, go build it.&lt;/li&gt;
+&lt;li&gt;Build what no one else is building.&lt;/li&gt;
+&lt;li&gt;As you move forward, allies will assemble around you.&lt;/li&gt;
+&lt;li&gt;Prototypes are proof.&lt;/li&gt;
+&lt;li&gt;Start somewhere, question assumptions, and adapt to reality.&lt;/li&gt;
+&lt;li&gt;Reason from fundamentals, not from what others are doing.&lt;/li&gt;
+&lt;li&gt;&amp;#34;The magic-wand number.&amp;#34; See the theoretically perfect and work toward it.&lt;/li&gt;
+&lt;li&gt;&amp;#34; Know the idiot index.&amp;#34; Understand the cost of components.&lt;/li&gt;
+&lt;li&gt;The Algorithm: Question Requriements -&amp;gt; Try to Delete the Part or Process -&amp;gt; Simplify -&amp;gt; Automate.&lt;/li&gt;
+&lt;li&gt;For critical items, have meeting every twenty-four hours to run The Algorithm and check progress from yesterday.&lt;/li&gt;
+&lt;li&gt;Stay as close to the actual work as possible. Do not separate yourself from the pain of your decisions.&lt;/li&gt;
+&lt;li&gt;All requirements should be treated as recommendations.&lt;/li&gt;
+&lt;li&gt;The only fixed laws are the laws of physics.&lt;/li&gt;
+&lt;li&gt;The best part is no part; the best process is no process.&lt;/li&gt;
+&lt;li&gt;Simplicity creates both realibility and low cost.&lt;/li&gt;
+&lt;li&gt;Find the design necessity of every part and every process.&lt;/li&gt;
+&lt;li&gt;Overdelete and add back the absolutely necessary.&lt;/li&gt;
+&lt;li&gt;Push for radical breathroughs.&lt;/li&gt;
+&lt;li&gt;Be proactive. You will never win unless you take charge of setting the strategy.&lt;/li&gt;
+&lt;li&gt;A maniacal sense of urgency is our operating principle.&lt;/li&gt;
+&lt;li&gt;A factory moving at twice the speed of another factory is basically equivalent to two factories.&lt;/li&gt;
+&lt;li&gt;Attack the bottleneck. If you have 9,999 things that are working and one that isn&amp;#39;t, that one sets the overall production rate.&lt;/li&gt;
+&lt;li&gt;You&amp;#39;ll move as fast as your least-lucky or least-competent supplier.&lt;/li&gt;
+&lt;li&gt;Do things in parallel.&lt;/li&gt;
+&lt;li&gt;Give teams one key metric to focus on. Video games without a score are boring.&lt;/li&gt;
+&lt;li&gt;Separating design, engineering, and manufacturing is a recipe for dysfunction.&lt;/li&gt;
+&lt;li&gt;Speed of innovation is what matters.&lt;/li&gt;
+&lt;li&gt;Beat competitors on speed, quality, and cost, not anitcompetitive behavior.&lt;/li&gt;
+&lt;li&gt;Test the absurd. When something seems impossible, ask: &amp;#34;What would it take?&amp;#34;&lt;/li&gt;
+&lt;li&gt;Money is not the constraint. Exceptional engineers are.&lt;/li&gt;
+&lt;li&gt;Get everyone thinking like the chief engineer.&lt;/li&gt;
+&lt;li&gt;Get a clear, direct feedback loop with reality.&lt;/li&gt;
+&lt;li&gt;Always be smashing your ego. Ensure ability &amp;gt; ego.&lt;/li&gt;
+&lt;li&gt;Ask, &amp;#34;Is this effort resulting in a better product or service?&amp;#34; If not, stop.&lt;/li&gt;
+&lt;li&gt;Good taste is learnable. Train yourself to notice what makes something beautiful.&lt;/li&gt;
+&lt;li&gt;Physics doesn&amp;#39;t care about hurt feelings. Make the rocket fly.&lt;/li&gt;
+&lt;li&gt;Empathy is not an asset.&lt;/li&gt;
+&lt;li&gt;Use simple, clear, humble terms.&lt;/li&gt;
+&lt;li&gt;Go directly to the source of information.&lt;/li&gt;
+&lt;li&gt;When hiring, look for evidence of exceptional ability.&lt;/li&gt;
+&lt;li&gt;Combine engineering and financial fluency.&lt;/li&gt;
+&lt;li&gt;To truly lead the product, lead the company.&lt;/li&gt;
+&lt;li&gt;Lead from the front. Sleep on the factory floor.&lt;/li&gt;
+&lt;li&gt;Physically move yourself to wherever the problem is immediately.&lt;/li&gt;
+&lt;li&gt;All bad news should be given loudly and often. Good news can be said quietly and once.&lt;/li&gt;
+&lt;li&gt;Failure is essentially irrelevant unless it is catastrophic.&lt;/li&gt;
+&lt;li&gt;Fear of failure is the biggest cause of failure.&lt;/li&gt;
+&lt;li&gt;Feel the fear and do it anyway.&lt;/li&gt;
+&lt;li&gt;Double down. Push your chips back in.&lt;/li&gt;
+&lt;li&gt;Work like hell. Like every walking hour. Go ultra hardcore.&lt;/li&gt;
+&lt;li&gt;Make sure you really care about what you&amp;#39;re doing - and take tha pain.&lt;/li&gt;
+&lt;li&gt;We should not be afraid of doing something important just because some amount of tragedy is likely to occur.&lt;/li&gt;
+&lt;li&gt;When something is important enough, do it even if the odds are not in your favor.&lt;/li&gt;
+&lt;li&gt;Don&amp;#39;t ever give up. You&amp;#39;d have to be dead or completely incapacitated.&lt;/li&gt;
+&lt;li&gt;Play life like a game.&lt;/li&gt;
+&lt;li&gt;Go ultra hardcore.&lt;/li&gt;
+&lt;li&gt;Humor is a differenctiator.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>2026年6月总结</title>
+      <link>http://localhost:1313/posts/july-report/</link>
+      <pubDate>Tue, 30 Jun 2026 12:36:38 +0800</pubDate>
+      <guid>http://localhost:1313/posts/july-report/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Overview
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+今天是2026年7月1日。我开始写这篇总结。&lt;/p&gt;
+&lt;p&gt;
+打开 Emacs 的 &lt;code class=&#34;verbatim&#34;&gt;dired mode&lt;/code&gt; ，拉出自己用 &lt;code class=&#34;verbatim&#34;&gt;denote&lt;/code&gt; 做的笔记，共20条，涉及的内容多为英语阅读。&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;6月读完的书籍：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/38392258/&#34;&gt;&lt;em&gt;The Book of Elon&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/4898521/&#34;&gt;《呼啸山庄》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/37887390/&#34;&gt;《如何自学：用更少的时间学会更多的东西（自学能力塑造一切成功者的强大内核）》&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;6月做成的事情：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;参加了&lt;a href=&#34;~/org/project/2026第十七届“安徽大学”《英语世界》杯“翻译大赛”.html&#34;&gt;2026年第十七届“安徽大学”《英语世界》杯翻译大赛&lt;/a&gt;，完成了英译汉的翻译。&lt;/li&gt;
+&lt;li&gt;写了 &lt;code class=&#34;verbatim&#34;&gt;Tab-bar&lt;/code&gt; 的使用笔记—— &lt;a href=&#34;~/org/project/Emacs tab bar mode 配置.html&#34;&gt;Emacs tab bar mode 配置&lt;/a&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+我的感触
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+最近，我在读 &lt;em&gt;Alice&amp;#39;s Adventures in Wonderland&lt;/em&gt; 。《爱丽丝梦游仙境》，我记得是我读初一的时候阅读一本书。那会儿，纯粹当成童书去读。&lt;/p&gt;
+&lt;p&gt;
+6月26日的时候，我从古登堡项目中下载了原著在蒙哥阅读器中，慢慢读一读原著，感受Lewis Caroll的笔调。&lt;/p&gt;
+&lt;p&gt;
+昨晚上，听了章泽天对话王强。说道王强老师，是我非常喜欢的一位，相较于新东方三驾马车的其中两位。或许，这是两个书蠹的神交与吸引。他的《读书毁了我》、《书蠹牛津消夏记》等等，而我读过他的《书蠹牛津消夏记》，里面有他写到在英国牛津饱蠹楼（Bodleian Libraries）的经历。饱蠹楼还是钱钟书钱老巧妙利用音译与意译翻译的。&lt;/p&gt;
+&lt;p&gt;
+听了播客后，我才得知，他还重新翻译了《爱丽丝梦游奇境》。我立马到网上去搜，没搜到平价版的。二手书直接炒到了千元。天哪！&lt;/p&gt;
+&lt;p&gt;
+但我最大的感受是——&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;
+吾生也有涯，而知也无涯。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+于是，我开始利用自己的一切时间—— &lt;strong&gt;阅读&lt;/strong&gt; 。最近我同时在读的书籍有：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;How to Live an Extraordinary Life&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alice&amp;#39;s Adventures in Wonderland&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;《主角》&lt;/li&gt;
+&lt;li&gt;《诗经译注》&lt;/li&gt;
+&lt;li&gt;《西南联大英文课》&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;虽然之前有过了解，multi-tasking 不算高效，但在阅读这件事上，multi-tasking 是一个较为不错的策略。《西南联大英文课》我已经读完了 Pearl S. Buck 和 Arnold Bennett 的两篇文章，笔记做的很扎实。《诗经译注》则选择慢读的方式。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我的第一个org格式的博客</title>
+      <link>http://localhost:1313/posts/first-org-post/</link>
+      <pubDate>Mon, 29 Jun 2026 12:36:38 +0800</pubDate>
+      <guid>http://localhost:1313/posts/first-org-post/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+缘起
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+我跟Emacs的缘分有些年头了。最初了解Emacs还是奔着它“神之编辑器”的名头。后来，我尝试了一段时间后，又不用了。最近这段时间，我才开始用Emacs重新记录、整理我的读书笔记。越用越上手。Emacs中有一个包叫做denote，十分有用。我用它做卡片笔记。后来，随着我使用的投入深度，我又配置好了magit，再后来我用Emacs的Eshell，直接调用终端，用hugo搭建好了这个主题是PaperMod的静态页面博客。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+为什么想到搭建这个博客
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+正如之前说的，我用Emacs中的Denote管理自己的笔记。之前读过一本书&lt;a href=&#34;https://book.douban.com/subject/30216624/&#34;&gt;《聪明人如何做笔记》&lt;/a&gt;。实则聪明人做笔记的核心在于：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;
+将知识转化为自己的思考，并建立知识网络。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+正如这句话说的那样，我打算将自己碎片的笔记，由点到面，连成知识网络，于是有了这个博客。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+后话
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+我其实很早之前就用hugo搭建过类似的静态博客，但总是卡在推送这一步。这次用Emacs就成功了。或许冥冥之中我跟这个工具有缘分。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
