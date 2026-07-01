@@ -1,0 +1,79 @@
+baseURL = 'https://milteau.github.io'
+locale = 'en-us'
+title = '鹏程Frank的数字花园'
+theme = "PaperMod"
+
+paginate = 5
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# --- 核心菜单导航（修正层级，从 params 独立出来） ---
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 20
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 30
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 40
+
+# --- 自定义参数区 ---
+[params]
+env = "production"
+description = "一个极简主义者的独立思考空间"
+author = "鹏程Frank"
+buildFuture = true  # 一劳永逸解决时区时间差导致文章隐藏的问题
+
+[params.profileMode]
+enabled = true
+title = "Hello, Welcome! 👋"
+subtitle = "纯粹的工具，清澈的思考。"
+imageUrl = "/images/avatar.jpg"
+imageWidth = 120
+imageHeight = 120
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:fupengcheng95@outlook.com"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/milteau"
+
+[[params.socialIcons]]
+name = "X"
+url = "https://x.com/pengchenglab"
+
+[params.assets]
+disableHLJS = false
+disableFingerprinting = true
+
+[params.label]
+text = "Frank's Digital Garden"
+
+[params.homeInfoParams]
+Title = "Hi there 👋"
+Content = "Welcome to my blog"
+
+[params.configuration]
+showToc = true
+TocOpen = false
+showReadingTime = true
+showWordCount = true
+UseHugoToc = true

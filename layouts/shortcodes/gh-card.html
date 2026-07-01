@@ -1,0 +1,18 @@
+{{ $repo := .Get 0 }}
+{{ $url := printf "https://api.github.com/repos/%s" $repo }}
+
+<!-- 新版 Hugo 获取远程 JSON 的标准写法 -->
+{{ $response := resources.GetRemote $url }}
+{{ $json := unmarshal $response.Content }}
+
+<div class="gh-card" style="border: 1px solid var(--border); padding: 16px; border-radius: var(--radius); margin: 20px 0; background: var(--code-bg);">
+    <h3 style="margin-top: 0; margin-bottom: 8px;">
+        <a href="{{ $json.html_url }}" target="_blank" style="color: var(--primary); text-decoration: none; box-shadow: none; font-weight: 600;">{{ $json.name }}</a>
+    </h3>
+    <p style="color: var(--secondary); font-size: 14px; margin-bottom: 12px; line-height: 1.5;">{{ $json.description }}</p>
+    <div style="font-size: 12px; color: var(--secondary); display: flex; gap: 15px;">
+        <span>⭐ {{ $json.stargazers_count }}</span>
+        <span>🍴 {{ $json.forks_count }}</span>
+        {{ if $json.language }}<span>🎨 {{ $json.language }}</span>{{ end }}
+    </div>
+</div>

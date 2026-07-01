@@ -1,0 +1,32 @@
+#+TITLE: 关于我
+#+DATE: 2026-06-29T6:00:00+08:00
+#+DRAFT: false
+#+LAYOUT: about
+#+SUMMARY: about
+
+* 欢迎来到我的数字花园
+** 我的自画像
+#+CAPTION: 纯粹的工具，清澈的思考
+[[/images/avatar.jpg]]
+-----
+* 关于我
+
+我是一名小说创作者、英语教育工作者。
+
+在喧嚣的数字时代，我遵循一个极简主义的生产力哲学： *工具越纯粹，思考越清澈* 。这里是我记录阅读笔记、翻译心得、Denote 卡片思考以及个人创作的独立空间。
+
+** 个人兴趣
+
+- *Emacs* ：用纯粹的工具掌控一切。
+- *围棋（Go）* ：在纵横黑白之间寻找平静与平衡。
+- *硬笔、毛笔书法* : 指尖划过纸张的踏实感。
+
+感谢你的造访，愿你在这里也能找到片刻的清宁。
+
+* 找到我/Contact Me
+
+如果你想与我交流阅读心得、围棋、或者探讨英语教学，欢迎通过以下方式联系我：
+
+- *Email* :: [[mailto:fupengcheng95@outlook.com][fupengcheng95@outlook.com]]
+- *GitHub* :: [[https://github.com/milteau][@milteau]]
+- *X* :: [[https://x.com/pengchenglab][pengchenglab]]

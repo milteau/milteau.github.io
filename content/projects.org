@@ -1,0 +1,24 @@
+#+title: 开源项目
+#+hidemeta: true
+#+layout: "single"
+#+slug: projects
+
+这里是我维护的一些开源项目和工具👇：
+
+* 开源电子书
+
+#+begin_export html
+{{< gh-card "milteau/evolution-of-learning" >}}
+#+END_export
+
+* 其他开源项目
+
+#+hugo: {{< gh-card "milteau/ai-writing-team" >}}
+
+#+begin_export html
+{{< gh-card "milteau/compostion-analyzer" >}}
+#+end_export
+
+#+begin_export html
+{{< gh-card "milteau/thinking-models" >}}
+#+end_export
