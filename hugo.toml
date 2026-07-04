@@ -57,8 +57,16 @@ name = "github"
 url = "https://github.com/milteau"
 
 [[params.socialIcons]]
+name = "mastodon"
+url = "https://mastodon.social/@fupengcheng"
+
+[[params.socialIcons]]
 name = "X"
 url = "https://x.com/pengchenglab"
+
+[[params.socialIcons]]
+name = "rss"
+url = "/index.xml"
 
 [params.assets]
 disableHLJS = false
