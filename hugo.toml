@@ -74,6 +74,7 @@ disableFingerprinting = true
 
 [params.label]
 text = "Frank's Digital Garden"
+icon = "/images/avatar.jpg"
 
 [params.homeInfoParams]
 Title = "Hi there 👋"
