@@ -3,12 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/read-the-book-of-elon/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/read-one-mans-view-of-the-world/</loc>
+    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2026-07-01T16:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2026-07-01T16:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%95%88%E7%8E%87/</loc>
+    <lastmod>2026-07-01T16:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/practice-hugo-and-github-actions/</loc>
+    <lastmod>2026-07-01T16:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/read-the-book-of-elon/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E6%80%9D%E8%80%83/</loc>
@@ -24,9 +45,6 @@
     <lastmod>2026-06-30T12:36:38+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-06-30T12:36:38+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-06-30T12:36:38+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
