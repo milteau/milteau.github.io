@@ -1,0 +1,15 @@
+- title: "浪潮之巅"
+  author: "吴军"
+  cover: "https://example.com/covers/langchao.jpg" # 封面图片链接
+  status: "读过" # 在读 / 想读 / 读过
+  rating: 5
+  comment: "互联网浪潮的兴衰史，视角宏大，常读常新。"
+  date: "2026-03-15"
+
+- title: "设计心理学"
+  author: "唐纳德·诺曼"
+  cover: "https://example.com/covers/design.jpg"
+  status: "在读"
+  rating: 4
+  comment: "正在重新审视生活中那些反人类的设计。"
+  date: "2026-06-01"

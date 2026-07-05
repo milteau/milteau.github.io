@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>项目笔记 on 鹏程Frank的数字花园</title>
+    <link>http://localhost:1313/tags/%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 项目笔记 on 鹏程Frank的数字花园</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>为什么我要写一本开源电子书：《学习的进化》？</title>
+      <link>http://localhost:1313/posts/why-i-write-an-ebook-01/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why-i-write-an-ebook-01/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+前言
+&lt;/h2&gt;
+&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

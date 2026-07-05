@@ -3,18 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/why-i-write-an-ebook-01/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/read-one-mans-view-of-the-world/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2026-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hugo/</loc>
