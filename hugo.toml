@@ -33,11 +33,6 @@ name = "About"
 url = "/about/"
 weight = 40
 
-[[menu.main]]
-name = "Read"
-url = "/reading/"
-weight = 50
-
 # --- 自定义参数区 ---
 [params]
 env = "production"
