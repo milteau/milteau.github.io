@@ -1,7 +1,7 @@
 #+TITLE: 阅读随笔：我的读书经验浅谈
 #+DRAFT: false
 #+AUTHOR: 鹏程Frank
-#+DATE: <2026-07-07 周三>
+#+DATE: <2026-07-07 周二>
 #+TAGS[]: "随笔" "读书"
 #+DESCRIPTION: 不管自己身份如何，我始终是一个读书人。
 
