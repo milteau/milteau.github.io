@@ -6,8 +6,71 @@
     <description>Recent content in Posts on 鹏程Frank的数字花园</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>为什么我选择 Fastmail？</title>
+      <link>http://localhost:1313/posts/why-i-choose-fastmail/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why-i-choose-fastmail/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+前言
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+前段时间我又去 Derek Sivers 的博客看他过去写的文章。有一篇叫做 &lt;a href=&#34;https://sive.rs/ti&#34;&gt;&lt;em&gt;Tech Independence&lt;/em&gt;&lt;/a&gt; 的文章，让我受益匪浅。&lt;/p&gt;
+&lt;p&gt;
+他的这篇文章实际上是技术型的内容，一步一步教你如何技术独立。实操性很强。&lt;/p&gt;
+&lt;p&gt;
+然而，我想要写得则是—— &lt;strong&gt;为什么要技术独立？&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+为什么要技术独立？
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+技术独立意味着数字主权与数据隐私的回归。&lt;/p&gt;
+&lt;p&gt;
+在今天这个时代，我们的大部分数字生活都被寄托管在少数几个科技巨头的服务器上。免费的代价是昂贵的——我们交出了自己的行为数据、阅读偏好、甚至是一闪而过的想法。当一个服务是“免费”的时候，我们自己就成了商品。&lt;/p&gt;
+&lt;p&gt;
+而“技术独立”，就是要把这部分被出让的主权重新拿回来。这并不是说我们要偏执地去重复造轮子，或者彻底与现代网络隔离，而是要建立一种“有选择的掌控感”：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;数字的所有权。&lt;/strong&gt; 我的文字、我的笔记、我的邮件，应该以最通常的格式（比如纯文本的 Org/Markdown, 或者标准的 Mbox 格式）保存在我自己能控制的地方，而不是被锁死在某个特定软件的私有生活里。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;迁移的自由度。&lt;/strong&gt; 如果有一天某个服务商倒闭了，或者改变了隐私政策，我可以在半天之内带着我所有的数据，毫无痛感地迁移到下一个替代方案中。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这就是为什么我最终决定把“电子邮箱”这个互联网生活的核心锚点，从免费的公共大池子，搬到了 Fastmail。&lt;/p&gt;
+&lt;p&gt;
+顺便提一下，我很早就把笔记软件换成了自由软件 GNU Emacs。用 Emacs 的人大多有一种共识： &lt;strong&gt;商业公司的寿命往往没有你的笔记长。&lt;/strong&gt; 只要纯文本格式在，只要开源社区在，我的数字资产就是永存且绝对安全的。&lt;/p&gt;
+&lt;p&gt;
+而对待电子邮箱，我也顺着同样的逻辑去审视它。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;为什么是电子邮箱？为什么是 Fastmail？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;电子邮箱是我们数字身份的底层资产。不管是银行账户、社交媒体还是各种生产力工具，几乎所有的线上服务都绑定在你的邮箱上。如果你的邮箱主权不在自己手里，所谓的“技术独立”就是空中楼阁。&lt;/p&gt;
+&lt;p&gt;
+我选择 Fastmail，恰恰是因为它在商业和技术的交界点上，满足了我对“掌控感”的苛求：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;尊重开放协议。它是现代邮件协议 JMAP 的核心推动者，同时也完美支持 IMAP 和 CardDAV/CalDAV。这意味着什么？这意味着我可以用任何我喜欢的第三方开源客户端（甚至是在 Emacs 里用 &lt;code class=&#34;verbatim&#34;&gt;mu4e&lt;/code&gt; 或 &lt;code class=&#34;verbatim&#34;&gt;notmuch&lt;/code&gt; ）去无缝阅读和管理我的邮件。我的数据没有被任何高墙围起来。&lt;/li&gt;
+&lt;li&gt;真正的“付费购买尊严”。Gmail 很好用，但它是通过扫描你的邮件内容来精准投放广告的。在 Google 眼里，你不是客户，你是供广告商消费的“数据源”。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Fastmail 是一家纯粹的付费订阅制公司。我付钱，它提供顶级的邮件托管服务。这种极其古老且健康的商业模式，反而给了我最大的安全感—— &lt;strong&gt;因为我知道，当我是消费者时，我的隐私就是它的产品护城河；它没有动机去窥探我的数字生活。&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+结语
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+从 GNU Emacs 到 Fastmail，表面上是在折腾工具，底层逻辑其实是一场 &lt;strong&gt;数字生活的精神断舍离。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+技术独立不意味着你要活得像个苦行僧，每天去编译自己的操作系统。它意味着你在做选择时，多了一份“如果这个世界变坏了，我随时可以拔线走人”的底气。付费给 Fastmail，买下的不仅是一个稳定的邮件收发工具，更是买下了我对自己数字人生的解释权。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>为什么我要写一本开源电子书：《学习的进化》？</title>
       <link>http://localhost:1313/posts/why-i-write-an-ebook-01/</link>
