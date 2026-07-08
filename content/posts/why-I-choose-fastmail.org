@@ -2,7 +2,7 @@
 #+DATE: <2026-07-08 周三>
 #+DRAFT: false
 #+AUTHOR: 鹏程Frank
-#+TAGS[]: 随笔 工具
+#+KEYWORDS: 随笔 工具
 
 * 前言
 
