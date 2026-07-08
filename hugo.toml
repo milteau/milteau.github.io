@@ -47,6 +47,7 @@ subtitle = "纯粹的工具，清澈的思考。"
 imageUrl = "/images/avatar.jpg"
 imageWidth = 120
 imageHeight = 120
+showRecentPosts = true
 
 [[params.socialIcons]]
 name = "email"
