@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/posts/my-tools/</guid>
       <description>local-first（本地优先），数字主权的回归。</description>
     </item>
+    <item>
+      <title>为什么要有自己的域名？</title>
+      <link>http://localhost:1313/posts/20260711t000000--why-should-we-have-a-domain__emacs/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20260711t000000--why-should-we-have-a-domain__emacs/</guid>
+      <description>从“数字游民”到“数字公民”</description>
+    </item>
   </channel>
 </rss>

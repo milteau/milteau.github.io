@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/tags/lifehacker/</loc>
     <lastmod>2026-07-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/%E6%95%88%E7%8E%87/</loc>
     <lastmod>2026-07-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,6 +18,9 @@
     <lastmod>2026-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/20260711t000000--why-should-we-have-a-domain__emacs/</loc>
     <lastmod>2026-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
