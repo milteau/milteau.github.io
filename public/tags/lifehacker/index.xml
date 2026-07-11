@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>&#34;LifeHacker&#34; on 鹏程Frank的数字花园</title>
+    <link>http://localhost:1313/tags/lifehacker/</link>
+    <description>Recent content in &#34;LifeHacker&#34; on 鹏程Frank的数字花园</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lifehacker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何读过一个充实的假期</title>
+      <link>http://localhost:1313/posts/how-to-spend-your-holiday/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/how-to-spend-your-holiday/</guid>
+      <description>不谈时间管理，只谈如何把时间过的充实。</description>
+    </item>
+  </channel>
+</rss>

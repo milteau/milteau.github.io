@@ -1,0 +1,27 @@
+#+TITLE: 2026 年 App Default
+#+AUTHOR: 鹏程Frank
+#+DRAFT: false
+#+tags[]: "效率" "LifeHacker"
+#+DESCRIPTION: local-first（本地优先），数字主权的回归。
+#+DATE: <2026-07-11 周六>
+
+*Mail Client* : Fastmail
+
+*Editor* : Emacs
+
+*To-Do* : Teuxdeux, Org-mode
+
+*Calender* : Fastmail Calender
+
+*Browser* : Firefox
+
+*Chat* : Signal & WeChat
+
+*Password Management* : 1Password
+
+*Books* : Physical Books, iBooks + Anan's Archive
+
+*Music* : Apple Music
+
+*VPN* : Surge, Clash for Windows
+
