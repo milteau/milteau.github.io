@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>技术 | 鹏程Frank的数字花园</title>
+<title>&#34;技术&#34; | 鹏程Frank的数字花园</title>
 <meta name="keywords" content="">
 <meta name="description" content="一个极简主义者的独立思考空间">
 <meta name="author" content="鹏程Frank">
@@ -67,13 +67,13 @@
 
 </script><meta property="og:url" content="http://localhost:1313/tags/%E6%8A%80%E6%9C%AF/">
   <meta property="og:site_name" content="鹏程Frank的数字花园">
-  <meta property="og:title" content="技术">
+  <meta property="og:title" content="&#34;技术&#34;">
   <meta property="og:description" content="一个极简主义者的独立思考空间">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="技术">
+  <meta name="twitter:title" content="&#34;技术&#34;">
   <meta name="twitter:description" content="一个极简主义者的独立思考空间">
 
 </head>
@@ -134,32 +134,27 @@
 <main class="main"> 
 <header class="page-header">
   <h1>
-    技术
+    &#34;技术&#34;
   </h1>
 </header>
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">重塑数字花园：我的现代 Hugo 与 GitHub Actions 实践
+    <h2 class="entry-hint-parent">为什么要有自己的域名？
     </h2>
   </header>
   <div class="entry-content">
-    <p> 在这个信息过载、算法推荐横行的时代，拥有一个完全属于自己的独立数字花园，变得越来越珍贵。今天，这个完全由文本和纯粹代码构建的博客终于正式上线了。
-不过，它的诞生并非一帆风顺，而是一场关于现代前端工具链和自动化部署的硬核排障之旅。
-破局：从混乱到纯净 在搭建之初，我曾陷入过本地编译与多重本地 Git 嵌套的“死结”中。每当在本地运行 hugo 生成静态文件时，冗余的缓存与错综复杂的指针冲突就会接踵而至，甚至让部署陷入 404 的无底深渊。
-在经历了数次删库、重来的阵痛后，我决定彻底重构博客的底层架构，确立了一条核心原则： 让工具回归纯粹，把复杂留给自动化。
-1. 彻底斩断本地的“包袱” 我彻底清空了本地的 public 文件夹。在现代的静态网站工作流中，本地不应该包含任何编译后的“垃圾文件”，而应该只保留最纯粹的源码和文章本身。
-2. 驯服 GitHub Actions 真正的解法在云端。通过配置 .github/workflows/hugo.yaml ，我将编译的重任完全交给了 GitHub 虚拟服务器。在这个过程中，虽然经历了一个错位的冒号（=:=）、官方旧版本 Hugo 的不兼容等小插曲，但当网页端最终跳出那个 治愈的绿色对勾（🟢 Success） 时，一切折腾都具有了意义。
-优雅的工作流 现在，这个依托于 Hugo (PaperMod 主题) 与 GitHub Actions 的花园骨架前所未有的健康。我未来写文章的流程将变得无比纯粹与优雅：
-打开我最钟爱的编辑器，用干净的 Org-mode 记录思考。 敲下三行最基础的命令：
-git add . git commit -m &#34;feat: publish my new post&#34; git push origin master 关掉终端，剩下的事情全部交给云端机器人。一分钟后，网站自动满血同步。 种下第一颗种子 这个博客不仅是一个发布文章的地方，更是我安放思考、记录阅读与翻译心得、沉淀知识的数字花园。它没有点赞的压力，没有流水的算法，只有文字最本真的流动。
-感谢在排障过程中给予启发的伙伴，也感谢每一个卡在冒号和嵌套目录里的深夜。
-...</p>
+    <p> 前言 截至今天，我终于把部署到 GitHub 上的 Hugo 静态博客挂到自己的域名下了。我的域名地址如下👇：
+fupengcheng.com
+记录一些关于技术和乱七八糟的想法。
+不再赘言，正题如下。
+为什么需要有自己的域名？ 命名权即控制权 。 互联网的地址系统（DNS）本质上是一套“谁能被找到”的权力结构。比如，我在 github.io 、微信公众号、简书等平台产出内容时，我的“名字”（url）是平台赐予的，而不是自己的—— milteau.github.io 这个地址，本质上是归 GitHub 所有，我只能被允许“挂靠”在这个命名空间下。 脱离平台的“治外法权” 。数字主权的核心焦虑，是数字身份和数字资产，是否处于别人的司法管辖和商业条款下。域名让内容的所有权和平台的选择权，重新回到自己的手上。 例证：众多用户“逃离”老牌笔记软件 EverNote 的行为。（也包括我🤭） 抵抗中心化的“最小单元” 。 但是，域名不是终极主权。需要承认的是，域名系统（DNS）本身也是由 ICANN 和各国注册局管理的中心化基础设施——域名依然可能因为政策、法律纠纷、注册局的判断而被暂停解析。就像我在部署时，在解析设置的过程中，我配置好了一切，但是因为没有完成 未实名认证 导致全球查不到一样，这本身就是一种国家/平台对我们“数字地址”的管辖权体现。 最后 域名是个体在互联网上争取“可迁移的身份连续性”和“脱离单一平台锁定”的最小实践单元——它不能让你完全自治，但能让你在被某个平台抛弃时（比如之前 EverNote 的文件格式是 .enex ，但如今改成了 .note 格式。迁移繁琐，甚至迁移后，没有适配的软件打开。我能理解这样做是为了防止用户流失），但能让我们在被某个平台抛弃时，至少带着自己的名字重新开始。
+附件 </p>
   </div>
   <footer class="entry-footer">
 
-<span title='2026-07-01 16:30:00 +0800 CST'>July 1, 2026</span>&nbsp;·&nbsp;<span>鹏程Frank</span></footer>
-  <a class="entry-link" aria-label="post link to 重塑数字花园：我的现代 Hugo 与 GitHub Actions 实践" href="http://localhost:1313/posts/practice-hugo-and-github-actions/"></a>
+<span title='2026-07-11 00:00:00 +0000 UTC'>July 11, 2026</span>&nbsp;·&nbsp;<span>鹏程Frank</span></footer>
+  <a class="entry-link" aria-label="post link to 为什么要有自己的域名？" href="http://localhost:1313/posts/why-should-we-own-a-domain/"></a>
 </article>
     </main>
     
@@ -233,6 +228,18 @@ git add . git commit -m &#34;feat: publish my new post&#34; git push origin mast
         const html = document.querySelector("html");
         if (html.dataset.theme === "dark") {
             html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
+           html.dataset.theme = 'light';
             localStorage.setItem("pref-theme", 'light');
         } else {
             html.dataset.theme = 'dark';

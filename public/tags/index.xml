@@ -92,5 +92,19 @@
       <guid>http://localhost:1313/tags/%E6%80%9D%E8%80%83/</guid>
       <description></description>
     </item>
+    <item>
+      <title>&#34;LifeStyle&#34;</title>
+      <link>http://localhost:1313/tags/lifestyle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lifestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>&#34;本地优先&#34;</title>
+      <link>http://localhost:1313/tags/%E6%9C%AC%E5%9C%B0%E4%BC%98%E5%85%88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%9C%AC%E5%9C%B0%E4%BC%98%E5%85%88/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
