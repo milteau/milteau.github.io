@@ -6,8 +6,15 @@
     <description>Recent content on 鹏程Frank的数字花园</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown 语言学习笔记</title>
+      <link>http://localhost:1313/posts/learn-markdown-language/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/learn-markdown-language/</guid>
+      <description>语言都是相通的。</description>
+    </item>
     <item>
       <title>猎乐如猎书：在流媒体时代重返“本地优先”</title>
       <link>http://localhost:1313/posts/hunting-music-just-like-hunting-books/</link>
