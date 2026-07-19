@@ -155,6 +155,46 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2 class="entry-hint-parent">重塑数字花园：我的现代 Hugo 与 GitHub Actions 实践
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> 在这个信息过载、算法推荐横行的时代，拥有一个完全属于自己的独立数字花园，变得越来越珍贵。今天，这个完全由文本和纯粹代码构建的博客终于正式上线了。
+不过，它的诞生并非一帆风顺，而是一场关于现代前端工具链和自动化部署的硬核排障之旅。
+破局：从混乱到纯净 在搭建之初，我曾陷入过本地编译与多重本地 Git 嵌套的“死结”中。每当在本地运行 hugo 生成静态文件时，冗余的缓存与错综复杂的指针冲突就会接踵而至，甚至让部署陷入 404 的无底深渊。
+在经历了数次删库、重来的阵痛后，我决定彻底重构博客的底层架构，确立了一条核心原则： 让工具回归纯粹，把复杂留给自动化。
+1. 彻底斩断本地的“包袱” 我彻底清空了本地的 public 文件夹。在现代的静态网站工作流中，本地不应该包含任何编译后的“垃圾文件”，而应该只保留最纯粹的源码和文章本身。
+2. 驯服 GitHub Actions 真正的解法在云端。通过配置 .github/workflows/hugo.yaml ，我将编译的重任完全交给了 GitHub 虚拟服务器。在这个过程中，虽然经历了一个错位的冒号（=:=）、官方旧版本 Hugo 的不兼容等小插曲，但当网页端最终跳出那个 治愈的绿色对勾（🟢 Success） 时，一切折腾都具有了意义。
+优雅的工作流 现在，这个依托于 Hugo (PaperMod 主题) 与 GitHub Actions 的花园骨架前所未有的健康。我未来写文章的流程将变得无比纯粹与优雅：
+打开我最钟爱的编辑器，用干净的 Org-mode 记录思考。 敲下三行最基础的命令：
+git add . git commit -m &#34;feat: publish my new post&#34; git push origin master 关掉终端，剩下的事情全部交给云端机器人。一分钟后，网站自动满血同步。 种下第一颗种子 这个博客不仅是一个发布文章的地方，更是我安放思考、记录阅读与翻译心得、沉淀知识的数字花园。它没有点赞的压力，没有流水的算法，只有文字最本真的流动。
+感谢在排障过程中给予启发的伙伴，也感谢每一个卡在冒号和嵌套目录里的深夜。
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2026-07-01 16:30:00 +0800 CST'>July 1, 2026</span>&nbsp;·&nbsp;<span>鹏程Frank</span></footer>
+  <a class="entry-link" aria-label="post link to 重塑数字花园：我的现代 Hugo 与 GitHub Actions 实践" href="http://localhost:1313/posts/practice-hugo-and-github-actions/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">读 The Book of Elon
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> 原文地址： The Book of Elon
+The Book of Elon One Sentence that I should Write Down 以物理学为第一性原理，以“默认自己是错的”为修正机制，通过机制删减与高速迭代，去创造世界上原本不存在、但显然应该存在的实体价值。
+The 69 Core Musk Methods You are capable of more than you think. It&#39;s possible for ordinary people to choose to be extraordinary. You can teach yourself anything. Read wisely; talk to experts. Assume you&#39;re wrong. Aspire to be less wrong. Internalize responsibilty. If we don&#39;t make stuff, there is no stuff. Creating products and services creates wealth. A useful life is worth having lived. Don&#39;t aspire to glory; aspire to work. Take actions that increase the odds of the future being good. Every day, we either increase the rate of innovation or it slows down. Work on what is just becoming possible. Don&#39;t wait for the world to want it. If it should obviously exist, go build it. Build what no one else is building. As you move forward, allies will assemble around you. Prototypes are proof. Start somewhere, question assumptions, and adapt to reality. Reason from fundamentals, not from what others are doing. &#34;The magic-wand number.&#34; See the theoretically perfect and work toward it. &#34; Know the idiot index.&#34; Understand the cost of components. The Algorithm: Question Requriements -&gt; Try to Delete the Part or Process -&gt; Simplify -&gt; Automate. For critical items, have meeting every twenty-four hours to run The Algorithm and check progress from yesterday. Stay as close to the actual work as possible. Do not separate yourself from the pain of your decisions. All requirements should be treated as recommendations. The only fixed laws are the laws of physics. The best part is no part; the best process is no process. Simplicity creates both realibility and low cost. Find the design necessity of every part and every process. Overdelete and add back the absolutely necessary. Push for radical breathroughs. Be proactive. You will never win unless you take charge of setting the strategy. A maniacal sense of urgency is our operating principle. A factory moving at twice the speed of another factory is basically equivalent to two factories. Attack the bottleneck. If you have 9,999 things that are working and one that isn&#39;t, that one sets the overall production rate. You&#39;ll move as fast as your least-lucky or least-competent supplier. Do things in parallel. Give teams one key metric to focus on. Video games without a score are boring. Separating design, engineering, and manufacturing is a recipe for dysfunction. Speed of innovation is what matters. Beat competitors on speed, quality, and cost, not anitcompetitive behavior. Test the absurd. When something seems impossible, ask: &#34;What would it take?&#34; Money is not the constraint. Exceptional engineers are. Get everyone thinking like the chief engineer. Get a clear, direct feedback loop with reality. Always be smashing your ego. Ensure ability &gt; ego. Ask, &#34;Is this effort resulting in a better product or service?&#34; If not, stop. Good taste is learnable. Train yourself to notice what makes something beautiful. Physics doesn&#39;t care about hurt feelings. Make the rocket fly. Empathy is not an asset. Use simple, clear, humble terms. Go directly to the source of information. When hiring, look for evidence of exceptional ability. Combine engineering and financial fluency. To truly lead the product, lead the company. Lead from the front. Sleep on the factory floor. Physically move yourself to wherever the problem is immediately. All bad news should be given loudly and often. Good news can be said quietly and once. Failure is essentially irrelevant unless it is catastrophic. Fear of failure is the biggest cause of failure. Feel the fear and do it anyway. Double down. Push your chips back in. Work like hell. Like every walking hour. Go ultra hardcore. Make sure you really care about what you&#39;re doing - and take tha pain. We should not be afraid of doing something important just because some amount of tragedy is likely to occur. When something is important enough, do it even if the odds are not in your favor. Don&#39;t ever give up. You&#39;d have to be dead or completely incapacitated. Play life like a game. Go ultra hardcore. Humor is a differenctiator. </p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2026-07-01 00:00:00 +0000 UTC'>July 1, 2026</span>&nbsp;·&nbsp;<span>鹏程Frank</span></footer>
+  <a class="entry-link" aria-label="post link to 读 The Book of Elon" href="http://localhost:1313/posts/read-the-book-of-elon/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2 class="entry-hint-parent">2026年6月总结
     </h2>
   </header>

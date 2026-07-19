@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/lifehacker/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%95%88%E7%8E%87/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-time-blocking-planner/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/note-taking/</loc>
+    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-first-principle-of-note-taking-app/</loc>
+    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -10,18 +34,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/learn-markdown-language/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/lifehacker/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/lifestyle/</loc>
     <lastmod>2026-07-12T00:00:00+00:00</lastmod>
@@ -33,9 +45,6 @@
     <lastmod>2026-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E6%95%88%E7%8E%87/</loc>
     <lastmod>2026-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/my-tools/</loc>
