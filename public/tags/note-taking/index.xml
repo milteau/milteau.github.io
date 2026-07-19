@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>&#34;Note-Taking&#34; on 鹏程Frank的数字花园</title>
+    <link>http://localhost:1313/tags/note-taking/</link>
+    <description>Recent content in &#34;Note-Taking&#34; on 鹏程Frank的数字花园</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/note-taking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>随笔：文本、纸笔与思维的延伸——关于&#34;第一性原则&#34;下的笔记哲学</title>
+      <link>http://localhost:1313/posts/the-first-principle-of-note-taking-app/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-first-principle-of-note-taking-app/</guid>
+      <description>&lt;p&gt;
+我们今天的知识生活，似乎正陷入一场前所未有的“工具繁荣”与“思维内耗”。&lt;/p&gt;
+&lt;p&gt;
+每隔一段时间，市场上就会涌现出号称能“变革工作流”的笔记软件：有的主打块级数据库，有的主打双向链接图谱，有的则将 AI 无缝塞进每一个弹窗。然而，在体验过无数炫酷的 UI、精心设计的 Card 和 Page 之后，我常常陷入一种微妙的空虚感——我花在研究属性列、调整看板样式、折腾软件插件上的时间，似乎远远超过了我真正用于思考和写作的时间。&lt;/p&gt;
+&lt;p&gt;
+当我们剥离这些花哨的包装，重新审视“记录”这件事时，不禁要问：笔记工具的第一性原则，究竟是什么？&lt;/p&gt;
+&lt;p&gt;
+答案也许极其原始：它应当是纯粹文本与载体的统一，是思维无缝延伸的媒介，以及一份能够对抗时间侵蚀的资产。&lt;/p&gt;
+&lt;p&gt;
+而沿着这个原则追本溯源，你会发现，无论是在数字世界的极客终点 Emacs，还是在物理世界的古老媒介 实体纸质笔记本（Physical Notebook） 上，它们竟践行着完全同构的哲学。&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+触感与纯粹：从“被工具驯化”到“回归数据本身”
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+绝大多数现代笔记软件的逻辑是“应用优先”。它们像是一个个装修精致的房间，你必须按照设计者的逻辑去摆放家具：在 Notion 里，你必须适应 Block；在其他软件里，你必须遵守特定的 Database 架构。你不是在记录思维，你是在填空。&lt;/p&gt;
+&lt;p&gt;
+而实体笔记本与 Emacs，在第一性原则上达成了惊人的共识： &lt;strong&gt;载体极简，内容至上&lt;/strong&gt; 。&lt;/p&gt;
+&lt;p&gt;
+一本物理笔记本，只有纸与墨。它没有弹窗，没有格式限制，没有复杂的数据库属性；而在 Emacs 的 Org-mode 里，看似强大的任务跟踪、时间管理和代码块，底层也不过是几行极其朴素的纯文本（Plain Text）。&lt;/p&gt;
+&lt;p&gt;
+无论是一张随手翻开的纸页，还是一个 &lt;code class=&#34;verbatim&#34;&gt;.org&lt;/code&gt; 文本文件，它们都将数据与特定应用彻底解耦。三十年过后，服务器或许关停，软件或许过时，但纸页上的笔迹与硬盘里的纯文本，依然清晰可读、字字存真。这种脱离了软件限制的纯粹性，给思维带来了真正的自由。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+空间与塑形：不是适应工具，而是打造器官
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+绝大多数数字工具的寿命，取决于开发者的路线图（Roadmap）。如果官方不支持某个功能，你只能等待，或者忍痛迁移。&lt;/p&gt;
+&lt;p&gt;
+但在物理笔记本和 Emacs 的哲学里，工具不是静态的“产品”，而是一个“可编程/可塑造的思维环境”。&lt;/p&gt;
+&lt;p&gt;
+纸笔是空间维度上的绝对自由。你可以画大纲，可以涂鸦，可以画思维导图，也可以用“子弹笔记”（Bullet Journal）建立一套属于自己的符号索引。你不需要任何软件更新，就能在下一页纸上创造一种全新的记录逻辑。&lt;/p&gt;
+&lt;p&gt;
+而 Emacs 则是在数字维度上继承了这种“纸张般的可塑性”。借助底层的 Elisp，你可以像用泥土捏塑工具一样去塑造它：你需要卡片盒笔记法，它可以演化出 &lt;code class=&#34;verbatim&#34;&gt;org-roam&lt;/code&gt; 或 &lt;code class=&#34;verbatim&#34;&gt;denote&lt;/code&gt; ；你需要时间管理， &lt;code class=&#34;verbatim&#34;&gt;Org-agenda&lt;/code&gt; 早已立于顶峰。&lt;/p&gt;
+&lt;p&gt;
+你不是在租赁别人的某种标准工作流，而是在用笔尖或代码，将载体锤炼成最契合你自己大脑突触连接方式的“外挂器官”。工具在适应你，而不是你在适应工具。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+零阻力：让落笔追上灵感
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+思考是极其脆弱的。从“产生想法”到“落笔捕捉”，中间任何微小的阻力——等待软件加载、查找菜单按钮、切换不同应用——都可能让闪现的灵感烟消云散。&lt;/p&gt;
+&lt;p&gt;
+实体笔记本的优势在于物理上的“即开即写”：翻开封面，拿起笔，灵感便直达纸面，这种触觉反馈带来的“具身认知”（Embodied Cognition），能让人瞬间进入深度专注。&lt;/p&gt;
+&lt;p&gt;
+而 Emacs 带来的则是数字世界里的极致低阻力。在全键盘的操控下，光标可以跟随思维飞驰；其绝妙的全局捕捉机制（ &lt;code class=&#34;verbatim&#34;&gt;org-capture&lt;/code&gt; ），让你无论在处理什么任务，敲击快捷键就能弹出一个极简窗口，记下灵感，瞬间归档，再切回原本的工作。&lt;/p&gt;
+&lt;p&gt;
+一个掌控物理空间的触感，一个掌控数字空间的流动，它们都做到了同一种体验：零破裂感。思考未断，笔墨已落。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-4&#34;&gt;
+结语：控制权的回归
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+有人说，在这个数字化、AI 化的时代，坚持用实体笔记本显得“过于古板”，而折腾 Emacs 门槛又“过于陡峭”。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
