@@ -1,0 +1,109 @@
+#+title: 读 How to Live an Extraordinary Life
+#+author: 鹏程Frank
+#+draft: false
+#+DATE: <2026-07-20 周一>
+#+tags[]: "读书笔记" "随笔"
+#+description: 非凡人生的本质，在于通过极致的自律与底层一致性，在好习惯、终身学习、深度社交、硬核商业法则及高效健康管理中不断复利叠加，最终以大胆乐观的心态实现全方位自我跨越。
+
+#+attr_html: :width 400
+[[/images/howtoliveanextraordinarylife.jpg]]
+
+* One Sentence
+
+**/An extraordinary life is built on the compound effect of radical consistency, lifelong learning, and relentless execution in habits, business, and relationships, driven by an audacious mindset and physical discipline./**
+
+* What I learnt from this books
+
+1. *践行“长期一致性”的复利法则*: 书中多次强调一致性（Consistency）和习惯的力量。非凡的人生不是靠一时的激情，而是靠日复一日的底层坚持（如每天早起写作、终身学习、像运动员一样训练商业技能）。这种“十年如一日吃玻璃”的执着，会通过时间复利将微小的习惯放大为巨大的鸿沟，最终让卓越成为一种必然。
+
+2. *打造“高势能”的认知与社交圈*:
+   真正聪明的人往往极其谦逊且善于吸收新知。想要脱颖而出，就必须主动优化自己的系统：多与能实现“复利成长”的人（Compounders）和同行（Peers）为伍，保持认知的开放性，随时准备修正观点。同时，高效的沟通能力和利他精神（通过帮助他人成功来成就自己）是打破阶层资源壁垒的制胜核心。
+
+3. *以“抓大放小”的极限思维掌控生活*:
+
+   生活和商业都遵循幂律法则（即 5% 的核心付出带来 95% 的成效）。非凡人生的精髓在于把时间花在刀刃上：在职业上专注优先级管理（即时间管理），在生活上不过度纠结于微观的“完美优化”，而是把精力聚焦于真正重要的大事——如大胆勇敢的抱负、高品质的睡眠运动、独立思考的能力，以及与家人散步这般无可替代的高质量生命体验。
+
+* Quotes
+
+- Consistency is incredibly valuable. Consistency is a superpower. Excellence breeds excellence.
+- Watch someone's daily habits today and you will understand what their future looks like.
+- The smartest people I know:
+  1. Obssesively read books.
+  2. Pursue new mental models.
+  3. Enjoy intelligent discourse.
+  4. Quickly admit when they're wrong.
+  5. Are comfortable changing their opinion.
+  6. Surround themselves with intelligence.
+  7. Seek to understand every perspective on a topic.
+- The willingness to eat glass for a decade and keep showing up with the same level of enthusiasm drastically increases your odds of success.
+- Build good habits and consistency will do the rest of the work.
+- Protect your creativity like your life depends on it.
+- Effort creates action. Action creates results.
+- It takes a level of obsession to achieve greatness.
+- Luck is a psychology concept, not a mathematical one. Studies show that you become more lucky simply by thinking you're a lucky person. It is all mindset.
+- Claiming "good fortune" or "misfortune" is a psychological trick we play on ourselves to cope with random chance.
+- A great way to formulate original ideas is to sit down and write every morning. Force yourself to gather information, synthesize it, andd produce an opinion on the topic. The output is not nearly as important as the process of thinking and writing.
+- If you want to build a large business and achieve significant success, you should treat the sport of business the same way a professional athlete would. Hard work. Obsession with the craft. Studying the greats. Getting reps. The formula works for both athletes and entrepreneurs.
+- The winning strategy moving forward will be to build everything under your own name and reputation.
+- I have optimized my life around the act of learning.
+- Life is all about power laws. Relationships, experiences, financial returns. Find the 5% that delivers 95% and ignore the rest.
+- An easy way to advance your career is to get to the office early, do more work than your stated job responsiblity, make your boss look good, and stay later than everyone else. Be first in and last to leave. Old school strategy that never fails.
+- Learn to communicate like your career depends on it. It is the one skill that remains valuable regardless of the industry or job you pursue.
+- Time management is just another name for priority management.
+- Strive to be excellent in everything you do.
+- Most of the "rules" in life are things that were either: (a) made up; or (b) can be changed if you simply ask.
+- Most business problems are ultimately people problems.
+- Leadership 101: Never ask your organization to do something you are unwilling to do.
+- Three simple ways to stand out from your peers:
+  1. Do the things you say you are going to do.
+  2. Respond quickly and concisely to people.
+  3. Make those around you successful.
+- The more you help other people become successful, the more success finds you.
+- A great conversation is priceless.
+- Great communication skills make business and life easier.
+- Be curious, be genuine, and be honest.
+- Invest in relationships and experiences.
+- Spend more time with your peers than your heroes — you can learn from both, but you will call peers more often than heroes over time.
+- A great dinner question that almost always spurs deeper, more valuable conversations: What is the most impactful thing you have ever done for someone else and why did you do it?
+- I try to surround myself with compounders — people who focus on compounding knowledge, health, wealth, and deep relationships over decades.
+- Your life changes once you realize that no one else's opinion matters as long as you know who you are.
+- Surround yourself with winners. Find a few people destined for greatness and sprint to keep up with them.
+- Be direct, be honest. Respect people's time, they'll respect yours.
+- You will be surprised at what you can receive if you just ask.
+- Stop complaining. Start competing.
+- You either think the world can be better in the future and you work to make that happen ... or you think the world is guaranteed to decline and you sit around complaining.
+- Adversity creates opportunity for an optimist.
+- True innovators can adapt to any environment.
+- Life is a series of obstacles and tests. Those who learn to be resilient, persistent, and optimistic have the upper hand.
+- Smart people use simple language.
+- Don't confuse motion with progress.
+- Arguing with strangers on the internet is a waste of time.
+- Surround yourself with people who are intellectually humble enough to change their mind.
+- You can't be rational with irrational people.
+- A true sign of intelligence is understanding that other people may have opinions that differ from yours, but you don't have to attack or berate them over it.
+- Genuinely caring about what you work on is a big competitive advantage.
+- People overcomplicate learning. Find smart people and ask them questions. Find good books and read them. Find things you don't know, google them.
+- Build mental strength by exposing yourself to different ideas, different perspectives, and different belief systems.
+- The world seems to separate itself into two groups — the people who never stop learning and everyone does.
+- The biggest mistake I see people make when it comes to personal finance is that they spend more money than they make. Simple rule. Increadibly hard to execute for most.
+- Never count your profits until the money hits the bank.
+- The best investors in the world are really good at doing nothing for long periods of time.
+- Life is about memories.
+- Independent thinking is the root of all good decisions.
+- You can improve your instincts by exposing yourself to many different people and situations. Each new experience gives you a feedback loop that allows you to improve your instincts algorithm over time.
+- Don't spend so much time over-optimizing your life that you forget to enjoy it.
+- You are gonig to die — we each get a finite amount of time on this earth so do something bold, courageous, and ambitious.
+- There are few things more enjoyable than a long walk outside with your family.
+- Exercise is mental training masquerading as physical training.
+- Got in an elevator this morning. One guy inside. He has a massive smile, cracks a stupid weather joke, and lets out a deep belly laugh. There is something special about people who simply enjoy life.
+- The secrets to higher quality sleep:
+  1. Increase your physical activity.
+  2. Make sure you're tired every day.
+  3. Don't eat before bed.
+  4. Limit alcohol.
+  5. Avoid sugar.
+  6. Make your room or bed cold.
+  7. Set an alarm to go to sleep earlier.
+  8. Easy rules. Takes discipline to follow.
+- Believe in yourself and trust your instincts.
+- Letters serve as time capsules for all that you have learned and all that you have yet to learn.
